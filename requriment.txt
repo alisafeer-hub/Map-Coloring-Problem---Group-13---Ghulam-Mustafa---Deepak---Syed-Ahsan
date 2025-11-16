@@ -1,0 +1,20 @@
+numpy==1.26.0
+pandas==2.1.1
+scikit-learn==1.3.0
+pgmpy==0.2.9
+matplotlib==3.8.0
+seaborn==0.12.2
+networkx==3.2
+✅ Explanation:
+
+numpy → numerical computations
+
+pandas → data manipulation (CSV, dataset handling)
+
+scikit-learn → ML models: Logistic Regression, Decision Tree, Random Forest
+
+pgmpy → Bayesian Network
+
+matplotlib & seaborn → visualization
+
+networkx → graph representation for adjacency maps
